@@ -17,9 +17,9 @@ for k = 1:1:r
     e2(1,k) = toc;
 end
 
-plot(1:1:runs,e2)
+plot(1:1:r,e2)
 hold on
-plot(1:1:runs,e1)
+plot(1:1:r,e1)
 hold off
 xlabel('Run Count')
 ylabel('Allocated Time (s)')
