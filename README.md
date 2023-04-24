@@ -1,2 +1,2 @@
 # Monte-Carlo-random-walk
-Monte Carlo 1D random walk using multiple methods
+Monte Carlo one-dimensional random walk using multiple methods. Mainly used to demonstrate good practices when working with large datasets.
