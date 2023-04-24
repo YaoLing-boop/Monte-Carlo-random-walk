@@ -1,2 +1,2 @@
 # Monte-Carlo-random-walk
-Monte Carlo one-dimensional random walk using multiple methods. Mainly used to demonstrate good practices when working with large datasets.
+File contains one dimensional monte carlo random walk using standard for/if loop methodology & vectorized version. Code also plots the time it takes to take N steps for r runs. Mainly used to demonstrate good practices for large datasets.
